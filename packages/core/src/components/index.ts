@@ -16,6 +16,7 @@
 
 export * from './AlertDisplay';
 export * from './Button';
+export * from './Chip';
 export * from './CodeSnippet';
 export * from './CopyTextButton';
 export * from './DismissableBanner';
