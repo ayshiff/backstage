@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 import React from 'react';
-import { Chip } from './Chip';
+import { Chip } from '@material-ui/core';
 
 export default {
   title: 'Chip',
